@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fronts on CSI Box</title>
+    <link>http://localhost:1313/front/</link>
+    <description>Recent content in Fronts on CSI Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Oct 2015 16:13:01 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/front/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Get Started</title>
+      <link>http://localhost:1313/front/get-started/</link>
+      <pubDate>Sat, 10 Oct 2015 16:13:01 +0800</pubDate>
+      
+      <guid>http://localhost:1313/front/get-started/</guid>
+      <description>
+
+&lt;h1 id=&#34;see-how-easy-it-is:3282643614388fe45584734117bbe788&#34;&gt;See how easy it is&lt;/h1&gt;
+
+&lt;div class=&#34;terminal&#34;&gt;
+  &lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;
+&lt;span class=&#34;bash-command&#34;&gt;isko&lt;/span&gt;&lt;span class=&#34;bash-err&#34;&gt;@&lt;/span&gt;&lt;span class=&#34;bash-user&#34;&gt;csibox:~$&lt;/span&gt; &lt;span class=&#34;bash-command&#34;&gt;csi&lt;/span&gt; setproxy dilnet
+&lt;span class=&#34;bash-install&#34;&gt;Set Dilnet Proxy!&lt;/span&gt;
+
+&lt;span class=&#34;bash-command&#34;&gt;isko&lt;/span&gt;&lt;span class=&#34;bash-err&#34;&gt;@&lt;/span&gt;&lt;span class=&#34;bash-user&#34;&gt;csibox:~$&lt;/span&gt; &lt;span class=&#34;bash-command&#34;&gt;csi&lt;/span&gt; ready 11.2014
+&lt;span class=&#34;bash-install&#34;&gt;installing &lt;span class=&#34;bash-lang&#34;&gt;python&lt;/span&gt;...
+installing &lt;span class=&#34;bash-lang&#34;&gt;pyglet&lt;/span&gt;...
+installing &lt;span class=&#34;bash-lang&#34;&gt;avbin&lt;/span&gt;...
+&lt;span class=&#34;bash-command&#34;&gt;Done!&lt;/span&gt; Get Hacking!&lt;/span&gt;
+
+&lt;span class=&#34;bash-command&#34;&gt;isko&lt;/span&gt;&lt;span class=&#34;bash-err&#34;&gt;@&lt;/span&gt;&lt;span class=&#34;bash-user&#34;&gt;csibox:~$&lt;/span&gt;
+  &lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>By CSI For DCS</title>
+      <link>http://localhost:1313/front/features/by-csi-for-dcs/</link>
+      <pubDate>Sat, 10 Oct 2015 16:04:22 +0800</pubDate>
+      
+      <guid>http://localhost:1313/front/features/by-csi-for-dcs/</guid>
+      <description>&lt;p&gt;CSI Box is maintained by Computer Students just like you. We&amp;rsquo;ve experienced the common pain points in machine setups, and our goal is to reduce these. Having the same portable development environment allows everyone to work on the same page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Incredibly Performant</title>
+      <link>http://localhost:1313/front/features/incredibly-performant/</link>
+      <pubDate>Sat, 10 Oct 2015 16:01:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/front/features/incredibly-performant/</guid>
+      <description>&lt;p&gt;CSI Box is designed from the ground up to be snappy and clutter-free, allowing even older hardware to run it. And we did this while keeping the interface easy to navigate and beautiful - it comes pre-installed with UI options and a couple of syntax themes in both dark and light colors.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Powered by Ubuntu</title>
+      <link>http://localhost:1313/front/features/powered-by-ubuntu/</link>
+      <pubDate>Sat, 10 Oct 2015 16:00:21 +0800</pubDate>
+      
+      <guid>http://localhost:1313/front/features/powered-by-ubuntu/</guid>
+      <description>&lt;p&gt;Using ubuntu-server as its core, CSI Box allows you to seamlessly install ubuntu packages while leveraging content unique to DCS.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Plug and Play</title>
+      <link>http://localhost:1313/front/features/plug-and-play/</link>
+      <pubDate>Sat, 10 Oct 2015 15:55:05 +0800</pubDate>
+      
+      <guid>http://localhost:1313/front/features/plug-and-play/</guid>
+      <description>&lt;p&gt;Full featured, right out of the box (&lt;em&gt;pun intended&lt;/em&gt;). Stop spending time setting up/installing tools, or making &lt;em&gt;language/framework x&lt;/em&gt; work on Windows.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>http://localhost:1313/front/welcome/</link>
+      <pubDate>Sat, 10 Oct 2015 15:50:38 +0800</pubDate>
+      
+      <guid>http://localhost:1313/front/welcome/</guid>
+      <description>&lt;p&gt;CSI Box is a preconfigured Linux flavor that&amp;rsquo;s fast, easy to use, and hackable to the core. It&amp;rsquo;s the perfect development environment, made incredibly &lt;strong&gt;simple&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
